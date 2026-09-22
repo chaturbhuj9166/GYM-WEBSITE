@@ -5,11 +5,9 @@ Fitness · Gym · Yoga · HIIT · Zumba · Personal Training.
 
 Built with React 19, Vite, Tailwind CSS, GSAP and Three.js.
 
-## Contact
 
-- 📞 [+91 95719 95817](tel:+919571995817)
-- 📷 [Instagram @fitup_fitnesslifestyle](https://www.instagram.com/fitup_fitnesslifestyle/)
-- 📘 [Facebook](https://www.facebook.com/Fit-Up-Fitness-Lifestyle-107)
+
+
 
 ## Getting started
 
