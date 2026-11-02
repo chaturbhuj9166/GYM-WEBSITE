@@ -36,8 +36,8 @@ export default function Footer() {
               Build <span className="text-accent-ink">yourself.</span>
             </p>
             <p className="mt-4 max-w-xs text-sm text-muted">Gym / Physical Fitness Center · Fitness · Gym · Yoga · HIIT · Zumba · Personal Training</p>
-            <a href="tel:+919571995817" data-cursor="button" className="link-u label mt-3 inline-block text-[0.75rem] text-fg">
-              +91 95719 95817
+            <a href="tel:+919166423954" data-cursor="button" className="link-u label mt-3 inline-block text-[0.75rem] text-fg">
+              +91 9166423954
             </a>
           </div>
 
@@ -84,7 +84,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 flex flex-col gap-3 border-t border-line py-6 text-muted sm:flex-row sm:justify-between">
-          <span className="label text-[0.6rem]">© {new Date().getFullYear()} FIT UP FITNESS LIFESTYLE. All rights reserved.</span>
+          <span className="label text-[0.6rem]">© {new Date().getFullYear()} Chaturbhuj Joshi. All rights reserved.</span>
           <span className="label text-[0.6rem]">A whole new lifestyle.</span>
         </div>
       </div>
